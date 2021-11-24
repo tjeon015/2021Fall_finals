@@ -1,0 +1,46 @@
+Characteristic,Total,Female,Male,Unknown
+AGE,,,,
+Total,"1,183,505","644,002","539,472",31
+Under 1 year,"3,313","1,669","1,643",1
+1 to 4 years,"38,550","18,742","19,808",-
+5 to 9 years,"61,158","29,831","31,322",5
+10 to 14 years,"67,618","32,747","34,869",2
+15 to 19 years,"90,610","44,139","46,468",3
+20 to 24 years,"103,620","58,973","44,646",1
+25 to 29 years,"139,172","78,276","60,894",2
+30 to 34 years,"147,282","76,624","70,656",2
+35 to 39 years,"116,466","60,795","55,667",4
+40 to 44 years,"97,486","53,723","43,761",2
+45 to 49 years,"81,346","46,454","34,891",1
+50 to 54 years,"66,839","39,721","27,114",4
+55 to 59 years,"54,151","32,970","21,181",-
+60 to 64 years,"44,366","26,963","17,400",3
+65 to 74 years,"51,936","30,701","21,234",1
+75 years and over,"19,592","11,674","7,918",-
+BROAD AGE GROUPS,,,,
+Total,"1,183,505","644,002","539,472",31
+Under 16 years,"187,010","90,874","96,128",8
+16 to 20 years,"95,699","47,697","47,998",4
+21 years and over,"900,796","505,431","395,346",19
+MARITAL STATUS,,,,
+Total,"1,183,505","644,002","539,472",31
+Married,"688,392","386,142","302,250",-
+Single,"401,561","192,854","208,707",-
+Widowed,"32,341","28,439","3,902",-
+Divorced/separated,"50,918","31,197","19,721",-
+Unknown,"10,293","5,370","4,892",31
+OCCUPATION,,,,
+Total,"1,183,505","644,002","539,472",31
+"Management, professional, and related occupations","115,961","45,218","70,742",1
+Service occupations,"29,464","14,090","15,373",1
+Sales and office occupations,"44,295","21,556","22,736",3
+"Farming, fishing, and forestry occupations","13,168","2,426","10,742",-
+"Construction, extraction, maintenance, and repair occupations","12,213",697,"11,516",-
+"Production, transportation, and material moving occupations","43,268","8,105","35,163",-
+Military,74,19,55,-
+No occupation/not working outside home,"565,255","361,965","203,268",22
+Homemakers,"160,758","152,864","7,889",5
+Students or children,"281,933","138,305","143,616",12
+Retirees,"11,769","6,705","5,064",-
+Unemployed,"110,795","64,091","46,699",5
+Unknown,"359,807","189,926","169,877",4

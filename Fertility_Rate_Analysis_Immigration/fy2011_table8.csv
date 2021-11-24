@@ -1,0 +1,48 @@
+Characteristic,Total,Male,Female,Unknown
+AGE,,,,
+Total,"1,062,040","480,679","581,351",10
+Under 1 year,"4,361","2,114","2,247",-
+1 to 4 years,"34,017","17,107","16,910",-
+5 to 9 years,"52,828","27,103","25,725",-
+10 to 14 years,"70,295","36,222","34,073",-
+15 to 19 years,"88,970","45,115","43,852",3
+20 to 24 years,"110,144","49,127","61,015",2
+25 to 29 years,"122,128","50,957","71,170",1
+30 to 34 years,"130,789","59,655","71,132",2
+35 to 39 years,"112,983","53,245","59,737",1
+40 to 44 years,"84,394","37,264","47,130",-
+45 to 49 years,"68,174","28,933","39,241",-
+50 to 54 years,"52,623","21,725","30,898",-
+55 to 59 years,"42,941","16,785","26,156",-
+60 to 64 years,"34,257","13,586","20,670",1
+65 to 74 years,"39,386","16,142","23,244",-
+75 years and over,"13,740","5,593","8,147",-
+Unknown,10,6,4,-
+BROAD AGE GROUPS,,,,
+Total,"1,062,040","480,679","581,351",10
+Under 16 years,"177,537","90,782","86,754",1
+16 to 20 years,"95,373","47,605","47,764",4
+21 years and over,"789,120","342,286","446,829",5
+Unknown,10,6,4,-
+MARITAL STATUS,,,,
+Total,"1,062,040","480,679","581,351",10
+Single,"405,164","213,138","192,020",6
+Married,"599,122","254,256","344,862",4
+Widowed,"26,930","3,172","23,758",-
+Divorced/separated,"26,087","7,566","18,521",-
+Unknown,"4,737","2,547","2,190",-
+OCCUPATION,,,,
+Total,"1,062,040","480,679","581,351",10
+"Management, professional, and related occupations","105,708","66,918","38,790",-
+Service occupations,"49,118","27,555","21,562",1
+Sales and office occupations,"32,812","14,748","18,064",-
+"Farming, fishing, and forestry occupations","13,332","10,617","2,714",1
+"Construction, extraction, maintenance, and repair occupations","6,213","6,086",127,-
+"Production, transportation, and material moving occupations","40,749","30,865","9,884",-
+Military,51,41,10,-
+No occupation/not working outside home,"523,911","191,408","332,496",7
+Homemakers,"140,136","4,677","135,459",-
+Students or children,"279,967","141,920","138,041",6
+Retirees,"9,965","4,419","5,546",-
+Unemployed,"93,843","40,392","53,450",1
+Unknown,"290,146","132,441","157,704",1
