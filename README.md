@@ -6,7 +6,7 @@ Link of the Video presentation for our Final Project - https://mediaspace.illino
 
 
 ## What is fertility rate and how is it different from birth rate?
-/images/image1.png
+![image](images/image1.png)
 Fertility rate is defined as the total number of children women would hypothetically birth assuming survival which is what we are exploring.
 Birth rate is defined as the total number of actual births within a specific time period.
 Replacement fertility rate is defined as the minimum fertility rate necessary to maintain a nation’s population.
