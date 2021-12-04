@@ -22,8 +22,8 @@ This can result in a country with a disproportionately large elderly population 
 This was an article written in 2009 and addresses the issue of decreasing global birth rates. It also escribes factors that are potentially contributing to decreasing global fertility rates. However, data sources were not cited in the article and there were no details for analysis provided. Therefore, our goal was to determine if select statements made by the article are supported by data. The statements that we'll be exploring in our analysis can be broadly categorized into four factors that we believe play an important role in the trend of decreasing fertility rates: economic growth, decreasing child mortality, increasing child expenditure, and religiosity.
 
 
-Sources:
-Datasets:
+## Sources:  
+### Datasets:
 Fertility Rate dataset: https://data.worldbank.org/indicator/SP.DYN.TFRT.IN
 
 Inflation dataset:  https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?view=chart
