@@ -21,6 +21,14 @@ This can result in a country with a disproportionately large elderly population 
 ![](images/image3.PNG)  
 This was an article written in 2009 and addresses the issue of decreasing global birth rates. It also describes factors that are potentially contributing to decreasing global fertility rates. However, data sources were not cited in the article and there were no details for analysis provided. Therefore, our goal was to determine if select statements made by the article are supported by data. The statements that we'll be exploring in our analysis can be broadly categorized into four factors that we believe play an important role in the trend of decreasing fertility rates: economic growth, decreasing child mortality, increasing child expenditure, and religiosity.
 
+## Here is a list of the Hypothesis we are going to explore in our analysis
+Hypothesis 1: There is a strong relationship with a correlation coefficient greater than 0.6 between fertility rate and three economic factors: GDP, Income per Capita, and Inflation.
+
+Hypothesis 2: Fertility rate in countries having low GNI (Gross National Income per capita) will be higher compared to other countries. At the same time, due to higher maternal and perinatal mortality, there is a reduction in birth rates for such countries.¶
+
+Hypothesis 3: The percentage share of housing, food, transportation, clothing, healthcare, child care and education and other miscellaneous expenses for a child will increase with time, being a contributing factor affecting the native fertility of US.¶
+
+Hypothesis 4: Faith, Religion and Religious authority tend to affect a country’s TFR. Countries which are predominantly religious, will have majority of its population following religious practices, which mainly tend to be against abortion, birth prevention, and other family planning methods. We shall compare such countries with the least religious countries and see how drastically TFR varies along with mean years of schooling for females.
 
 ## Sources:  
 ### Datasets:
