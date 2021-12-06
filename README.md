@@ -38,11 +38,11 @@ Birth Rate Data: https://data.worldbank.org/indicator/SP.DYN.CBRT.IN
 
 GDP dataset: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
+Income per Capita data: https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD
+
 Data for Education: http://hdr.undp.org/en/data
 
 Child Bearing Expenditure: https://www.fns.usda.gov/resource/expenditures-children-families-reports-all-years 
-
-Contraceptive Prevalence Data: https://www.un.org/en/development/desa/population/publications/dataset/contraception/wcu2018.asp
 
 
 
