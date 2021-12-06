@@ -34,6 +34,8 @@ Infant Mortality dataset: https://data.worldbank.org/indicator/SP.DYN.IMRT.IN
 
 Maternal Mortality Data: https://data.worldbank.org/indicator/SH.STA.MMRT.NE
 
+Birth Rate Data: https://data.worldbank.org/indicator/SP.DYN.CBRT.IN
+
 GDP dataset: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
 Data for Education: http://hdr.undp.org/en/data
