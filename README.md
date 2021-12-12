@@ -1,4 +1,6 @@
-# 2021Fall_finals: Analysis and Critique of “Declining birth rate in Developed Countries: A radical policy re-think is required by G. Nargund”:  An Analysis of Factors Affecting Global Fertility Rates
+# 2021Fall_finals: 
+
+# Analysis and Critique of “Declining birth rate in Developed Countries: A radical policy re-think is required by G. Nargund”:  An Analysis of Factors Affecting Global Fertility Rates
 
 By Anish Shetty, Saish Desai, and Terry Jeon
 
@@ -17,7 +19,7 @@ Global fertility rates have been steadily decreasing since the late 1960s.
 Specific countries have birth rates that are lower than the statistical replacement birth rate.
 This can result in a country with a disproportionately large elderly population which can be difficult to sustain economically.
 
-## Declining birth rate in Developed Countries: A radical policy re-think is required by G. Nargund
+## Article: Declining birth rate in Developed Countries: A radical policy re-think is required by G. Nargund
 ![](images/image3.PNG)  
 This was an article written in 2009 and addresses the issue of decreasing global birth rates. It also describes factors that are potentially contributing to decreasing global fertility rates. However, data sources were not cited in the article and there were no details for analysis provided. Therefore, our goal was to determine if select statements made by the article are supported by data. The statements that we'll be exploring in our analysis can be broadly categorized into four factors that we believe play an important role in the trend of decreasing fertility rates: economic growth, decreasing child mortality, increasing child expenditure, and religiosity.
 
