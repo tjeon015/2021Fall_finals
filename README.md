@@ -64,6 +64,15 @@ In this first analysis, we were able to determine a strong relationship between 
 1. Countries with higher economic rankings appear to have overall lower fertility rates than countries with lower economic rankings.
 2. Fertility rates within a country appear to decrease as GDP and income per capita of a nation increase.
 
+### Hypothesis 2
+The article states that due to High Infant and Mortality Rates, there is a reduction in birthrates. However, we also observe that for HIGH income countries, Maternal and Infant Mortality is comparitively lower but yet there is an overall reduction in birthrates. Thus, Maternal and Natal Mortality rates cannot be directly correlated as a whole factor causing the overall reduction in birthrates for such poorly resourced countries, but they are a contributing factor. 
+
+### Hypothesis 3
+After performing the analysis of expenditure on child we can conclude that 'Childcare & Education' and 'Healthcare' are 2 categories where the percentage share of expenditure from the total child expenditure budget has risen in the selected period of time. Thus, supporting the statement in the article we can state that these two factors may lead to couples delaying having children, which may lead to reduced fertility rate.
+
+### Hypothesis 4
+
+From our analysis above, we conclude that religious countries do infact have a higher fertility rate compared to the least religious countries, and as the average years of schooling increases, the fertility rate tends to decrease, irrespective of the religion.
 
 
 
