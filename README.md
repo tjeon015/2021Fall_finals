@@ -54,5 +54,9 @@ Data for Education: http://hdr.undp.org/en/data
 
 Child Bearing Expenditure: https://www.fns.usda.gov/resource/expenditures-children-families-reports-all-years 
 
+## Instructions to use the code:
+Keep all the listed files and folders in the same directory. Run the "IS 597 Final Project combined.ipynb" to observe the analysis. The functions will be called from the "data_analysis_function.py" file.
+
+
 
 
