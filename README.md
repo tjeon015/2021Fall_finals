@@ -58,5 +58,12 @@ Child Bearing Expenditure: https://www.fns.usda.gov/resource/expenditures-childr
 Keep all the listed files and folders in the same directory. Run the "IS 597 Final Project combined.ipynb" to observe the analysis. The functions will be called from the "data_analysis_function.py" file.
 
 
+## Conclusion from the Analysis:
+### Hypothesis 1
+In this first analysis, we were able to determine a strong relationship between specific economic factors and global fertility rates. The gross domestic product as well as the income per capita of a nation has a strong correlation with the rate at which fertility rates are changing within that nation. However, we also determined that inflation rates do not correlate with fertility rates and do not appear to have a relationship.  Therefore, we generally agree with the statement made by the author that fertility rates are lower in "industrialized" or "developed" nations due to two points of evidence:  
+1. Countries with higher economic rankings appear to have overall lower fertility rates than countries with lower economic rankings.
+2. Fertility rates within a country appear to decrease as GDP and income per capita of a nation increase.
+
+
 
 
